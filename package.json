@@ -1,0 +1,13 @@
+{
+  "name": "sample5",
+  "uuid": "1be0108f-b496-407d-99c8-9aca27e1df9f",
+  "creator": {
+    "version": "3.8.6",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {
+      "localization-editor": "1.0.4"
+    }
+  }
+}
